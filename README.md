@@ -1,4 +1,6 @@
-<h1><center>PYTHON LAB</center></h1>
+<h2 align="center">
+  <strong>PYTHON LAB</strong>  
+</h2>
 
 ## Overview
 
