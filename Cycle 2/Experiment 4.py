@@ -6,7 +6,6 @@
 # 2. Iterate through each character.
 # 3. Print character counts.
 
-
 n=int(input(“Enter the string:”).lower()
 s={}
 for i in n :
