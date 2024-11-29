@@ -19,3 +19,6 @@ print(list1)
 # Output:
 # Enter number of integers to input : 3
 # Enter integers:46
+# Enter integers:2446
+# Enter integers:0
+# [46, ‘over’,0]
