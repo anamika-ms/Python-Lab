@@ -1,4 +1,6 @@
-# Python Lab Record
+<h2 align="center">
+  <strong>PYTHON LAB RECORD</strong>  
+</h2>
 
 ### Contents:
 - **Cycle 1 to 6**: Each cycle contains lab exercises, solutions, and other relevant information.
